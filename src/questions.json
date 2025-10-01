@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "question": "나루토 주인공은?",
+        "answer": "나루토",
+        "imgSrc": "https://i.ytimg.com/vi/kEwYv30WDLU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLClp4O2XJ01T5BCm4DU55aBYD6kLA"
+    },
+    {
+        "id": 2,
+        "question": "원피스 주인공은?",
+        "answer": "루피",
+        "imgSrc": "https://i.namu.wiki/i/9IRO8BZA3xCWUbISuwRDECsVQb-1rKEFHOPHVxT7P67BEzXCXH7W0_jGAZ-r-nNFAFlNVXmrLWWqOzksYc0oWA.webp"
+    }
+]
